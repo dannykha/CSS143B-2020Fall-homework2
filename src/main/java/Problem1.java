@@ -12,6 +12,8 @@ public class Problem1 {
     and the end is if the mid finds a 1 then it will just move forward as 1 is the middle.
      */
 
+    // Also implemented the dutch national flag algorithm for this answer as help
+
     // Do not change signature (function name, parameters type, and return type)
 
     // input: {2, 0, 2, 1, 1, 0},
